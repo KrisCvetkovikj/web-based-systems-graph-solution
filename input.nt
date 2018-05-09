@@ -1,0 +1,11 @@
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#EMAIL> "cvetkovikj.kristijan@finki.ukim.mk" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Other> "FINKI" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Given> "Kristijan" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Other> "Student" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#FN> "Kristijan Cvetkovikj" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#ADR> "Nace Dimov 96a" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#UID> "121002"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#N> <http://faceburn.com/k1ko.mk> .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Cvetkovikj" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Other> "Veles" .
+<http://faceburn.com/k1ko.mk> <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Makedonija" .
